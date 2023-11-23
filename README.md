@@ -1,11 +1,11 @@
 # odin-recipes
 todo
-- [ ] seperate pages folder for other pages (recipes)
-- [ ] links to the recipe pages
-- [ ] add titles
-- [ ] add images
-- [ ] add list (ingredients for the recipe)
-- [ ] add list (steps to cooking the recipe)
-- [ ] have 5 recipes at least
+- [x] seperate pages folder for other pages (recipes)
+- [x] links to the recipe pages
+- [x] add titles
+- [x] add images
+- [x] add list (ingredients for the recipe)
+- [x] add list (steps to cooking the recipe)
+- [x] have 5 recipes at least
 - [ ] make it pretty
 - [ ] host through github
